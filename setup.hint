@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libXmuu1
-sdesc: "Xorg server access control utility"
-ldesc: "Xorg server access control utility"
+sdesc: "X.Org server access control utility"
+ldesc: "X.Org server access control utility"

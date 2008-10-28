@@ -1,6 +1,6 @@
 xhost
 ------------------------------------------
-Xorg server access control utility
+X.Org server access control utility
 
 Runtime requirements:
   cygwin-1.5.24-2
