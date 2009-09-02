@@ -3,9 +3,9 @@ xhost
 X.Org server access control utility
 
 Runtime requirements:
-  cygwin-1.7.0-56
+  cygwin-1.7.0-60
   libgcc1-4.3.2-2
-  libX11_6-1.2.1-1
+  libX11_6-1.2.2-1
   libXmuu1-1.0.4-10
 
 Build requirements:
@@ -20,7 +20,7 @@ Build requirements:
   pkg-config-0.23b-10
   sed-4.1.5-2
   xorg-util-macros-1.2.2-1
-  xtrans-1.2.3-2
+  xtrans-1.2.4-1
 
 Canonical website:
   http://xorg.freedesktop.org/
