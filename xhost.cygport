@@ -1,7 +1,7 @@
 inherit xorg
 
 NAME="xhost"
-VERSION=1.0.6
+VERSION=1.0.7
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="X server access control utility"
